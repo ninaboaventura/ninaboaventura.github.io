@@ -477,10 +477,17 @@ figure.effect-job:hover p {
 .social{
 	position: absolute;
 	bottom: 0;
+	width: 250px;
+	left:0;
+	right:0;
+	margin: auto;
 	li{
 		float: left;
 		list-style: none;
 		margin-right: 20px;
+		&:last-child{
+			margin-right: 0;
+		}
 		a{
 			text-decoration: none;
 			i{
