@@ -40,7 +40,6 @@
 					<div class="about">
 						<p>Hello! My name is Marina, I'm a Front End Developer from Brazil. Currently living in Auckland/New Zealand. Doing some amazing stuff using HTML, CSS and JAVASCRIPT<Br> :-)</p>
 					</div>
-
 					<ul class="clearfix social">
 						<li><a href="https://www.facebook.com/nina.boaventura" target="_blank"><i class="icon-facebook-squared"></i></a></li>
 						<li><a href="http://instagram.com/ninaboaventura" target="_blank"><i class="icon-twitter"></i></a></li>
@@ -205,6 +204,11 @@
 			</div>
 		</div>
 	</div>
+	<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script>
+		var gridHeight = $('.grid').innerHeight();
+		$('header').css('max-height', gridHeight);
+	</script>
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
