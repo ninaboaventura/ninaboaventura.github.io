@@ -202,6 +202,30 @@ header{
 		background-image: linear-gradient(135deg,#650606,#B57E22);
 		
 	}
+	&.job16:after{
+		background-color: #E02E2C;
+		background-image: -webkit-linear-gradient(135deg,#E02E2C,#28A74E);
+		background-image: -moz-linear-gradient(135deg,#E02E2C,#28A74E);
+		background-image: -o-linear-gradient(135deg,#E02E2C,#28A74E);
+		background-image: linear-gradient(135deg,#E02E2C,#28A74E);
+		
+	}
+	&.job17:after{
+		background-color: #D2AF9F;
+		background-image: -webkit-linear-gradient(135deg,#D2AF9F,#992F3F);
+		background-image: -moz-linear-gradient(135deg,#D2AF9F,#992F3F);
+		background-image: -o-linear-gradient(135deg,#D2AF9F,#992F3F);
+		background-image: linear-gradient(135deg,#D2AF9F,#992F3F);
+		
+	}
+	&.job18:after{
+		background-color: #7AB44D;
+		background-image: -webkit-linear-gradient(135deg,#7AB44D,#452F1A);
+		background-image: -moz-linear-gradient(135deg,#7AB44D,#452F1A);
+		background-image: -o-linear-gradient(135deg,#7AB44D,#452F1A);
+		background-image: linear-gradient(135deg,#7AB44D,#452F1A);
+		
+	}
 
 }
 
