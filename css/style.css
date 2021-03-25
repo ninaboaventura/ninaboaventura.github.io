@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 @font-face {
   font-family: "marinaboaventuracom";
   src: url("../fonts/marinaboaventuracom.eot");
@@ -51,10 +51,6 @@
 
 html {
   font-size: 62.5%; }
-
-body {
-  font-size: 1.4rem;
-  background: url("http://marinaboaventura.com/images/bg.gif") repeat; }
 
 html, body {
   height: 100%; }
