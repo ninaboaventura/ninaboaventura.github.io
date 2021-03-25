@@ -61,9 +61,6 @@ $screen-lg: 1200px;
 }
 
 html { font-size: 62.5%; } 
-body {
-	font-size: 1.4rem; background: url("http://marinaboaventura.com/images/bg.gif") repeat;
-}
 html, body{
 	height:100%;
 }
@@ -411,7 +408,7 @@ figure.effect-job:hover p {
 
 
 /*hover*/
-@import url(http://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 
 .tooltip {
 	position: relative;
