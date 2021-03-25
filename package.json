@@ -1,0 +1,23 @@
+{
+  "name": "marinaboaventura.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss --o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninaboaventura/marinaboaventura.com.git"
+  },
+  "author": "Marina Boaventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninaboaventura/marinaboaventura.com/issues"
+  },
+  "homepage": "https://github.com/ninaboaventura/marinaboaventura.com#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
